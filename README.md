@@ -37,3 +37,42 @@ This project presents an interactive Power BI dashboard built to analyze sales, 
 ## Author
 
 *Gopika J*
+
+
+## 📷 Dashboard Screenshots
+
+### 1. Dashboard Overview
+
+![Dashboard Overview](dashboard.overview.png)
+
+---
+
+### 2. KPI Cards
+
+![KPI Cards](KPI_cards.png)
+
+---
+
+### 3. Sales by State Analysis
+
+![State Analysis](State-analysis.png)
+
+---
+
+### 4. Category Analysis
+
+![Category Analysis](Category-analysis.png)
+
+---
+
+### 5. Profit by Category
+
+![Profit by Category](Profitbycat.png)
+
+---
+
+### 6. Monthly Profit Trend
+
+![Monthly Profit Trend](Profitbymnth.png)
+
+
